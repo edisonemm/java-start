@@ -17,4 +17,5 @@ void main() {
 //    Input.scanner();
 //    MadLibsGame.game();
 //    Operators.main();
+    Shopping.cartprogram();
 }
