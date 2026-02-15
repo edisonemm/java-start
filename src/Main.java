@@ -15,6 +15,6 @@ void main() {
 //    IO.println("Buy me mango!");
 //    Variables.saludar();
 //    Input.scanner();
-//    MadLibsGame.main();
-    Operators.main();
+//    MadLibsGame.game();
+//    Operators.main();
 }
