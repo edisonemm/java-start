@@ -2,16 +2,13 @@ public class Variables {
 
     public static void saludar() {
 
-//      Variable
-//      Primitiva
-//      Rerencia
+//      VARIABLES
+//      Primitive int double char boolean
+//      References String Array Object
 //
-//      Primitiva int double char boolean
-//      Referencia String Array Object
-//
-//      Crear Variables
-//      1. Declaracion
-//      2. Assignamiento
+//      Ways Variables
+//      1. Declaration
+//      2. Assignment
 
 //      int age;
         int age = 20;
@@ -34,10 +31,10 @@ public class Variables {
         boolean isOnline = true;
 
         if(isStudent){
-            System.out.println("You are a student!");
+            IO.println("You are a student!");
         }
         else {
-            System.out.println("You are not a student");
+            IO.println("You are not a student");
         }
 
         String name = "Edison Active";
@@ -46,14 +43,14 @@ public class Variables {
         String car = "Lamborghini";
         String color = "blue";
 
-        System.out.println("Your choice is a " + " " + year + " " + car);
-        System.out.println("The price is : " + currency + price );
+        IO.println("Your choice is a " + " " + year + " " + car);
+        IO.println("The price is : " + currency + price );
 
         if(forSale) {
-            System.out.println("There is a " + car + " for sale");
+            IO.println("There is a " + car + " for sale");
         }
         else{
-            System.out.println("The " + car + " is not for sale");
+            IO.println("The " + car + " is not for sale");
         }
 
 

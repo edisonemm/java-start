@@ -1,6 +1,4 @@
-public class Main {
-
-    // THIS IS A COMMENT IN JAVA
+// THIS IS A COMMENT IN JAVA
 
     /*
         THIS
@@ -11,12 +9,12 @@ public class Main {
         JAVA
      */
 
-    public static void main(String[] args) {
-        System.out.println("I like mango!");
-        System.out.println("It's really good");
-        System.out.println("Buy me mango!");
-        Variables.saludar();
-        Input.scanner();
-        MadLibsGame.main();
-    }
+void main() {
+    IO.println("I like mango!");
+    IO.println("It's really good");
+    IO.println("Buy me mango!");
+    Variables.saludar();
+    Input.scanner();
+    MadLibsGame.main();
+    Operators.main();
 }

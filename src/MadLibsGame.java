@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//import java.io.;
 
 public class MadLibsGame {
     public static void main() {
@@ -15,19 +16,19 @@ public class MadLibsGame {
 
         System.out.print("Enter an adjective (description): ");
         adjective1 = scanner.nextLine();
-        System.out.print("Enter a noun (animal or person): ");
+        IO.print("Enter a noun (animal or person): ");
         noun1 = scanner.nextLine();
-        System.out.print("Enter an adjective (description): ");
+        IO.print("Enter an adjective (description): ");
         adjective2 = scanner.nextLine();
-        System.out.print("Enter a verb and with -ing (action): ");
+        IO.print("Enter a verb and with -ing (action): ");
         verb1 = scanner.nextLine();
-        System.out.print("Enter an adjective (description): ");
+        IO.print("Enter an adjective (description): ");
         adjective3 = scanner.nextLine();
 
-        System.out.println("Today I went to a " + adjective1 + " zoo.");
-        System.out.println("In an exhibit, I saw a " + noun1 + ".");
-        System.out.println(noun1 + " was " + adjective2 + " and " + verb1 + "!");
-        System.out.println("I was " + adjective3 + "!");
+        IO.println("Today I went to a " + adjective1 + " zoo.");
+        IO.println("In an exhibit, I saw a " + noun1 + ".");
+        IO.println(noun1 + " was " + adjective2 + " and " + verb1 + "!");
+        IO.println("I was " + adjective3 + "!");
 
 
         scanner.close();
