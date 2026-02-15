@@ -17,6 +17,6 @@ public class Main {
         System.out.println("Buy me mango!");
         Variables.saludar();
         Input.scanner();
-        MadLibsGame.madlibgame();
+        MadLibsGame.main();
     }
 }

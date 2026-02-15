@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MadLibsGame {
-    public static void madlibgame() {
+    public static void main() {
 
         // MAD LIBS GAME
 
