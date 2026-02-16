@@ -16,6 +16,10 @@ void main() {
 //    Variables.saludar();
 //    Input.scanner();
 //    MadLibsGame.game();
-//    Operators.main();
-    Shopping.cartprogram();
+//    Operators.operators();
+//    Shopping.cartprogram();
+//    Conditions.conditional();
+//    Ramdom.ramdom();
+//    Maths.math();
+    PrintFormat.format();
 }

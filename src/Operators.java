@@ -1,5 +1,5 @@
 public class Operators {
-    static void main(){
+    static void operators(){
 
         // Augmented Assignment Operators
 
