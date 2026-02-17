@@ -31,7 +31,7 @@ void main() {
 //    Temperature.converter();
 //    SwitchStatement.multiconditional();
 //    Interest.calculator();
-    Calculator.procces();
+//    Calculator.process();
 }
 
 

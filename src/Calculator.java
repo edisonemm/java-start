@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    static void procces() {
+    static void process() {
 
         Scanner scanner = new Scanner(System.in);
 
