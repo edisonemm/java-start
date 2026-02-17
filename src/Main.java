@@ -9,7 +9,7 @@
         JAVA
      */
 
-void main() {
+void main() throws InterruptedException {
 //    IO.println("I like mango!");
 //    IO.println("It's really good");
 //    IO.println("Buy me mango!");
@@ -32,8 +32,17 @@ void main() {
 //    SwitchStatement.multiconditional();
 //    Interest.calculator();
 //    Calculator.process();
-    LogicalOperator.operators();
+//    LogicalOperator.operators();
+//    Whiles.loop();
+//    Guessing.game();
+//    ForLoop.loop();
+//    Methods.method();
+//    VariableScope.local();
+    BankingProgram.program();
 }
+
+
+
 
 
 
