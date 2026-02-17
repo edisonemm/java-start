@@ -21,5 +21,13 @@ void main() {
 //    Conditions.conditional();
 //    Ramdom.ramdom();
 //    Maths.math();
-    PrintFormat.format();
+//    PrintFormat.format();
+//    Calculator.calculator();
+//    NestedStatement.statement();
+//    StringMethod.methods();
+//    Subtrings.substring();
+//    WeightConvert.program();
 }
+
+
+
