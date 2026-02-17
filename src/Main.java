@@ -9,7 +9,7 @@
         JAVA
      */
 
-void main() throws InterruptedException {
+void main() throws InterruptedException{
 //    IO.println("I like mango!");
 //    IO.println("It's really good");
 //    IO.println("Buy me mango!");
@@ -38,7 +38,9 @@ void main() throws InterruptedException {
 //    ForLoop.loop();
 //    Methods.method();
 //    VariableScope.local();
-    BankingProgram.program();
+//    BankingProgram.program();
+//    RollerProgram.program();
+    ArraysMethods.array();
 }
 
 
