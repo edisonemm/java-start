@@ -27,6 +27,11 @@ void main() {
 //    StringMethod.methods();
 //    Subtrings.substring();
 //    WeightConvert.program();
+//    TernaryOperator.ternary();
+//    Temperature.converter();
+//    SwitchStatement.multiconditional();
+//    Interest.calculator();
+    Calculator.procces();
 }
 
 
