@@ -32,6 +32,7 @@ void main() {
 //    SwitchStatement.multiconditional();
 //    Interest.calculator();
 //    Calculator.process();
+    LogicalOperator.operators();
 }
 
 
