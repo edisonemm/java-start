@@ -44,7 +44,9 @@ void main() throws InterruptedException{
 //    VarArgs.varargs();
 //    Array2D.array();
 //    QuizGame.program();
-    RockPaperScissors.game();
+//    RockPaperScissors.game();
+//    SlotMachine.program();
+    ObjetcOrientedProgramming.opp();
 }
 
 
