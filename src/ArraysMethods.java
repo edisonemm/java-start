@@ -27,9 +27,9 @@ public class ArraysMethods {
         
         String[] foods;
         int size = 0;
-//        IO.print("What # of food do you want?: ");
-//        size = scanner.nextInt();
-//        scanner.nextLine();
+        IO.print("What # of food do you want?: ");
+        size = scanner.nextInt();
+        scanner.nextLine();
 
         foods = new String[size];
 //        foods[0] = "pizza";

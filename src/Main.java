@@ -40,8 +40,14 @@ void main() throws InterruptedException{
 //    VariableScope.local();
 //    BankingProgram.program();
 //    RollerProgram.program();
-    ArraysMethods.array();
+//    ArraysMethods.array();
+//    VarArgs.varargs();
+//    Array2D.array();
+//    QuizGame.program();
+    RockPaperScissors.game();
 }
+
+
 
 
 
