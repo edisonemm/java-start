@@ -46,7 +46,8 @@ void main() throws InterruptedException{
 //    QuizGame.program();
 //    RockPaperScissors.game();
 //    SlotMachine.program();
-    ObjetcOrientedProgramming.opp();
+//    ObjetcOrientedProgramming.opp();
+    Constructor.demo();
 }
 
 
