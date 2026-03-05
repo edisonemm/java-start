@@ -49,7 +49,9 @@ void main() throws InterruptedException{
 //    ObjetcOrientedProgramming.opp();
 //    Constructor.demo();
 //    OverloadedConstructors.demo();
-    ArrayObjects.demo();
+//    ArrayObjects.demo();
+//    Static.demo();
+    Inheritance.demo();
 }
 
 
