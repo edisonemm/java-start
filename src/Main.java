@@ -51,7 +51,8 @@ void main() throws InterruptedException{
 //    OverloadedConstructors.demo();
 //    ArrayObjects.demo();
 //    Static.demo();
-    Inheritance.demo();
+//    Inheritance.demo();
+    Super.demo();
 }
 
 

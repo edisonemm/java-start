@@ -1,3 +1,4 @@
+import opp.Employee;
 import opp.Person;
 
 public class Super {
@@ -7,8 +8,11 @@ public class Super {
 
     static void demo(){
         Person person = new Person("Edison", "active");
+        Employee employee = new Employee("Ei", "oi", 2123);
 
         person.showName();
+        employee.showSalary();
+
 
     }
 }
