@@ -52,7 +52,9 @@ void main() throws InterruptedException{
 //    ArrayObjects.demo();
 //    Static.demo();
 //    Inheritance.demo();
-    Super.demo();
+//    Super.demo();
+//    Overriding.demo();
+    toStringClass.demo();
 }
 
 

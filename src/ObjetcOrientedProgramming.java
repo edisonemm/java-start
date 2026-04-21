@@ -14,17 +14,17 @@ public class ObjetcOrientedProgramming {
         Random random = new Random();
 
         Car car = new Car();
-        IO.println(car.price);
+        IO.println(car.getModel());
 
         car.start();
         car.drive();
-        car.brake();
+        car.stop();
 
         Car car1 = new Car();
         Car car2 = new Car();
 
-        IO.println(car1.make + " " + car1.model);
-        IO.println(car2.make + " " + car2.model);
+        IO.println(car1.getMake() + " " + car1.getModel());
+        IO.println(car2.getMake() + " " + car2.getModel());
 
         scanner.close();
     }

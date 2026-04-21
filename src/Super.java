@@ -8,9 +8,10 @@ public class Super {
 
     static void demo(){
         Person person = new Person("Edison", "active");
-        Employee employee = new Employee("Ei", "oi", 2123);
+        Employee employee = new Employee("Elon musk", "oi", 2123);
 
         person.showName();
+        employee.showName();
         employee.showSalary();
 
 
