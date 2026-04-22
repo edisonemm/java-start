@@ -54,7 +54,9 @@ void main() throws InterruptedException{
 //    Inheritance.demo();
 //    Super.demo();
 //    Overriding.demo();
-    toStringClass.demo();
+//    toStringClass.demo();
+//    Abstract.demo();
+    Interfaces.demo();
 }
 
 
