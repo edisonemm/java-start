@@ -59,7 +59,8 @@ void main() throws InterruptedException{
 //    Interfaces.demo();
 //    Polymorphism.demo();
 //    RuntimePoly.demo();
-    GetSetter.demo();
+//    GetSetter.demo();
+    Aggregation.demo();
 }
 
 
