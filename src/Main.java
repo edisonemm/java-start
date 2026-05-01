@@ -56,7 +56,10 @@ void main() throws InterruptedException{
 //    Overriding.demo();
 //    toStringClass.demo();
 //    Abstract.demo();
-    Interfaces.demo();
+//    Interfaces.demo();
+//    Polymorphism.demo();
+//    RuntimePoly.demo();
+    GetSetter.demo();
 }
 
 

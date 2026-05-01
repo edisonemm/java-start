@@ -1,3 +1,4 @@
+import opp.interfaces.Fish;
 import opp.interfaces.Hawk;
 import opp.interfaces.Rabbit;
 
@@ -9,9 +10,11 @@ public class Interfaces {
 
         Rabbit rabbit = new Rabbit();
         Hawk hawk = new Hawk();
+        Fish fish = new Fish();
 
         rabbit.flee();
         hawk.hunt();
-
+        fish.flee();
+        fish.hunt();
     }
 }
