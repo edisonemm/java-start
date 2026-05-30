@@ -60,7 +60,12 @@ void main() throws InterruptedException{
 //    Polymorphism.demo();
 //    RuntimePoly.demo();
 //    GetSetter.demo();
-    Aggregation.demo();
+//    Aggregation.demo();
+//    Composition.demo();
+//    WrapperClasses.demo();
+//    ArrayListDemo.demo();
+//    Exceptions.demo();
+    WriteFiles.demo();
 }
 
 
