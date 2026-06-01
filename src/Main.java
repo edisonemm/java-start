@@ -66,7 +66,9 @@ void main() throws InterruptedException{
 //    ArrayListDemo.demo();
 //    Exceptions.demo();
 //    WriteFiles.demo();
-    ReadFiles.demo();
+//    ReadFiles.demo();
+//    MusicPlayer.demo();
+    HangmanGame.demo();
 }
 
 
