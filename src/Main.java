@@ -72,7 +72,8 @@ void main() throws InterruptedException{
 //    DateTime.demo();
 //    AnonymousClasses.demo();
 //    Timers.demo();
-    CountdownTimer.demo();
+//    CountdownTimer.demo();
+    Generics.demo();
 }
 
 
