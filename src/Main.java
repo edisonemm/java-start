@@ -73,7 +73,8 @@ void main() throws InterruptedException{
 //    AnonymousClasses.demo();
 //    Timers.demo();
 //    CountdownTimer.demo();
-    Generics.demo();
+//    Generics.demo();
+    HashMaps.demo();
 }
 
 
