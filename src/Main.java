@@ -74,7 +74,8 @@ void main() throws InterruptedException{
 //    Timers.demo();
 //    CountdownTimer.demo();
 //    Generics.demo();
-    HashMaps.demo();
+//    HashMaps.demo();
+    Enums.demo();
 }
 
 
