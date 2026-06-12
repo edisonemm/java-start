@@ -76,7 +76,8 @@ void main() throws InterruptedException{
 //    Generics.demo();
 //    HashMaps.demo();
 //    Enums.demo();
-    Threadings.demo();
+//    Threadings.demo();
+    Multithreading.demo();
 }
 
 
