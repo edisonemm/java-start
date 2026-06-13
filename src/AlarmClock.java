@@ -35,7 +35,7 @@ public class AlarmClock implements Runnable {
             }
         }
 
-        System.out.print("\n*ALARM NOISES");
+        System.out.println("\n*ALARM NOISES");
         playSound(filePath);
     }
     private void playSound(String filePath){

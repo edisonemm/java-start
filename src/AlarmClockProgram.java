@@ -30,6 +30,5 @@ public class AlarmClockProgram {
         Thread alarmThread = new Thread(alarmClock);
         alarmThread.start();
 
-        scanner.close();
     }
 }
