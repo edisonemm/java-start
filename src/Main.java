@@ -77,7 +77,8 @@ void main() throws InterruptedException{
 //    HashMaps.demo();
 //    Enums.demo();
 //    Threadings.demo();
-    Multithreading.demo();
+//    Multithreading.demo();
+    AlarmClockProgram.demo();
 }
 
 
